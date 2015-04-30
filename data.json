@@ -1,0 +1,9 @@
+{
+  "locations" : [
+    {"location" : "Tokyo", "area": "6,993 square km", "population":13350000  },
+    {"location" : "Melbourne", "area": "2,080 square km", "population":31000000  },
+    {"location" : "Naples", "area": "583 square km", "population":2400000  },
+    {"location" : "Seattle", "area": "2,470 square km", "population":2700000  },
+    {"location" : "Belo Horizonte", "area": "868 square km", "population":4000000  }
+  ]
+}
